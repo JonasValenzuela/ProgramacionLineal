@@ -137,7 +137,7 @@ Partial Class Form1
         Me.dgvRestricciones.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
         Me.dgvRestricciones.Location = New System.Drawing.Point(12, 139)
         Me.dgvRestricciones.Name = "dgvRestricciones"
-        Me.dgvRestricciones.Size = New System.Drawing.Size(547, 160)
+        Me.dgvRestricciones.Size = New System.Drawing.Size(756, 160)
         Me.dgvRestricciones.TabIndex = 0
         '
         'dgvTablaSimplex
@@ -145,13 +145,13 @@ Partial Class Form1
         Me.dgvTablaSimplex.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
         Me.dgvTablaSimplex.Location = New System.Drawing.Point(12, 305)
         Me.dgvTablaSimplex.Name = "dgvTablaSimplex"
-        Me.dgvTablaSimplex.Size = New System.Drawing.Size(547, 167)
+        Me.dgvTablaSimplex.Size = New System.Drawing.Size(756, 167)
         Me.dgvTablaSimplex.TabIndex = 7
         '
         'lblResultado
         '
         Me.lblResultado.AutoSize = True
-        Me.lblResultado.Location = New System.Drawing.Point(565, 139)
+        Me.lblResultado.Location = New System.Drawing.Point(774, 139)
         Me.lblResultado.Name = "lblResultado"
         Me.lblResultado.Size = New System.Drawing.Size(55, 13)
         Me.lblResultado.TabIndex = 8
@@ -168,9 +168,9 @@ Partial Class Form1
         '
         'picGrafica
         '
-        Me.picGrafica.Location = New System.Drawing.Point(568, 282)
+        Me.picGrafica.Location = New System.Drawing.Point(774, 261)
         Me.picGrafica.Name = "picGrafica"
-        Me.picGrafica.Size = New System.Drawing.Size(262, 190)
+        Me.picGrafica.Size = New System.Drawing.Size(385, 211)
         Me.picGrafica.TabIndex = 10
         Me.picGrafica.TabStop = False
         '
