@@ -16,7 +16,7 @@ Public Class Form1
         numRestricciones.Maximum = 10
         cmbTipoObjetivo.SelectedIndex = 0
         btnGraficar.Enabled = False
-        btnResolver.Enabled = False
+        btnExportarPDF.Enabled = False
     End Sub
 
 #Region "Botones"
@@ -56,6 +56,8 @@ Public Class Form1
             .AllowUserToOrderColumns = False
             .ReadOnly = True
         End With
+
+        btnExportarPDF.Enabled = True
 
         If numVar = 2 Then
             btnGraficar.Enabled = True
